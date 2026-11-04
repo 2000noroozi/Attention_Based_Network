@@ -289,4 +289,8 @@ The code in this repository is released under the terms in [`LICENSE`](LICENSE).
 
 ## Contact
 
-Questions and suggestions are welcome through [GitHub Issues](../../issues) or by email to Masoud Noroozi (2000noroozi@gmail.com).
+For questions or bug reports, please open a [GitHub issue](../../issues).
+
+
+> [!CAUTION]
+> **Research use only.** This software is not a medical device and has not been validated for clinical decision-making.
