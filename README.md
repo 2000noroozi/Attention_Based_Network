@@ -1,4 +1,3 @@
-<div align="center">
 
 # Attention-Based Network for Cardiac Systolic Abnormality Segmentation in Catheterization X-ray Images
 
@@ -8,6 +7,8 @@
 <sup>2</sup>Division of Nuclear Medicine & Molecular Imaging, Geneva University Hospital, Geneva, Switzerland
 
 *2024 IEEE Nuclear Science Symposium (NSS), Medical Imaging Conference (MIC)<br>and Room Temperature Semiconductor Detector Conference (RTSD)*
+
+<div align="center">
 
 [![Paper](https://img.shields.io/badge/Paper-IEEE%20NSS%2FMIC%2FRTSD%202024-00629B?logo=ieee&logoColor=white)](https://doi.org/10.1109/NSS/MIC/RTSD57108.2024.10655946)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/Attention_Based_Network.ipynb)
